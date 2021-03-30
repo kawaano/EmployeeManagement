@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application">
+    <sys_app_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category display_value="">Custom Applications</category>
+        <description>practice creating app.</description>
+        <device_type>browser</device_type>
+        <hint>practice creating app.</hint>
+        <name/>
+        <order/>
+        <roles>x_590625_employeem.employee</roles>
+        <sys_class_name>sys_app_application</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-03-25 06:38:58</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>02fec9ee2fcba0109de8532a2799b6f4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>EmployeeManagement</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="EmployeeManagement" source="x_590625_employeem">494c09ae2fcba0109de8532a2799b6f2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="EmployeeManagement">494c09ae2fcba0109de8532a2799b6f2</sys_scope>
+        <sys_update_name>sys_app_application_02fec9ee2fcba0109de8532a2799b6f4</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-03-25 06:38:58</sys_updated_on>
+        <title>EmployeeManagement</title>
+        <view_name/>
+    </sys_app_application>
+</record_update>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Employee" max_length="40" name="x_590625_employeem_employee" sizeclass="7" type="collection">
+        <element choice="1" label="承認状況" max_length="40" name="approval" type="string">
+            <choice>
+                <element inactive_on_update="false" label="未申請" sequence="0" value="1"/>
+                <element inactive_on_update="false" label="承認待ち" sequence="1" value="2"/>
+                <element inactive_on_update="false" label="保留" sequence="2" value="3"/>
+                <element inactive_on_update="false" label="承認済み" sequence="3" value="4"/>
+                <element inactive_on_update="false" label="拒否" sequence="4" value="5"/>
+            </choice>
+        </element>
+        <element label="申請先" max_length="32" name="assigned_to" reference="sys_user" type="reference"/>
+        <element choice="1" label="所属部署" max_length="40" name="depnum" type="string">
+            <choice>
+                <element inactive_on_update="false" label="KDS1G" sequence="0" value="611"/>
+                <element inactive_on_update="false" label="KDS2G" sequence="1" value="612"/>
+                <element inactive_on_update="false" label="KDS3G" sequence="2" value="613"/>
+                <element inactive_on_update="false" label="KTS1G" sequence="3" value="621"/>
+                <element inactive_on_update="false" label="KTS2G" sequence="4" value="622"/>
+                <element inactive_on_update="false" label="KTS3G" sequence="5" value="623"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="社員名" max_length="40" name="empname" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="社員番号" max_length="40" name="empnum" type="string"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="No" max_length="40" name="number" type="string"/>
+        <element choice="1" label="申請区分" max_length="40" name="request_type" type="string">
+            <choice>
+                <element inactive_on_update="false" label="交通費" sequence="0" value="transportation"/>
+                <element inactive="true" inactive_on_update="true" label="交通費" sequence="0" value="1"/>
+                <element inactive_on_update="false" label="機器" sequence="1" value="machine"/>
+                <element inactive="true" inactive_on_update="true" label="機材" sequence="1" value="2"/>
+                <element inactive_on_update="false" label="資格等褒賞" sequence="2" value="prize"/>
+                <element inactive="true" inactive_on_update="true" label="資格等褒賞" sequence="2" value="3"/>
+            </choice>
+        </element>
+        <element choice="1" label="申請区分（詳細）" max_length="80" name="request_type_advanced" type="string">
+            <choice>
+                <element inactive_on_update="false" label="交通費" sequence="0" value="交通費"/>
+                <element inactive_on_update="false" label="PC" sequence="1" value="pc"/>
+                <element inactive_on_update="false" label="PC周辺機器" sequence="2" value="pc周辺機器"/>
+                <element inactive_on_update="false" label="IPA" sequence="3" value="ipa"/>
+                <element inactive_on_update="false" label="Oracle" sequence="4" value="oracle"/>
+                <element inactive_on_update="false" label="Microsoft" sequence="5" value="microsoft"/>
+                <element inactive_on_update="false" label="Other" sequence="6" value="other"/>
+            </choice>
+        </element>
+        <element default="javascript:current.getTableName();" label="Class" max_length="80" name="sys_class_name" type="sys_class_name"/>
+        <index name="index">
+            <element name="sys_class_name"/>
+        </index>
+        <index name="index2">
+            <element name="assigned_to"/>
+        </index>
+    </element>
+</database>

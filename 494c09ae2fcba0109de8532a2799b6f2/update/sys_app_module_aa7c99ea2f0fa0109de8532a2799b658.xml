@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="Department">aab8d12a2f0fa0109de8532a2799b6cd</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>Departments</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_590625_employeem_department</name>
+        <order/>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles>admin</roles>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-03-25 07:37:58</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>aa7c99ea2f0fa0109de8532a2799b658</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Departments</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="EmployeeManagement" source="x_590625_employeem">494c09ae2fcba0109de8532a2799b6f2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="EmployeeManagement">494c09ae2fcba0109de8532a2799b6f2</sys_scope>
+        <sys_update_name>sys_app_module_aa7c99ea2f0fa0109de8532a2799b658</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-03-25 07:37:58</sys_updated_on>
+        <timeline_page/>
+        <title>Departments</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+</record_update>

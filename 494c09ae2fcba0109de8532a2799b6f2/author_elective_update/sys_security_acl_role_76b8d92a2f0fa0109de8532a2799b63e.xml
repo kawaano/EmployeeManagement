@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="DELETE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-03-25 07:21:37</sys_created_on>
+        <sys_id>76b8d92a2f0fa0109de8532a2799b63e</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>x_590625_employeem_department.admin</sys_name>
+        <sys_package display_value="EmployeeManagement" source="x_590625_employeem">494c09ae2fcba0109de8532a2799b6f2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="EmployeeManagement">494c09ae2fcba0109de8532a2799b6f2</sys_scope>
+        <sys_security_acl display_value="x_590625_employeem_department">f6b8d92a2f0fa0109de8532a2799b63b</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_76b8d92a2f0fa0109de8532a2799b63e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-03-25 07:24:06</sys_updated_on>
+        <sys_user_role display_value="admin" name="admin">2831a114c611228501d4ea6c309d626d</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="EmployeeManagement">494c09ae2fcba0109de8532a2799b6f2</application>
+        <file_path/>
+        <instance_id>3ee8995fdb2a4c903050ac44d496193d</instance_id>
+        <instance_name>dev98333</instance_name>
+        <name>sys_security_acl_role_76b8d92a2f0fa0109de8532a2799b63e</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-03-25 07:21:37</sys_created_on><sys_id>76b8d92a2f0fa0109de8532a2799b63e</sys_id><sys_mod_count>1</sys_mod_count><sys_name>x_590625_employeem_department.admin</sys_name><sys_package display_value="EmployeeManagement" source="x_590625_employeem">494c09ae2fcba0109de8532a2799b6f2</sys_package><sys_policy/><sys_scope display_value="EmployeeManagement">494c09ae2fcba0109de8532a2799b6f2</sys_scope><sys_security_acl display_value="x_590625_employeem_department">f6b8d92a2f0fa0109de8532a2799b63b</sys_security_acl><sys_update_name>sys_security_acl_role_76b8d92a2f0fa0109de8532a2799b63e</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-03-25 07:24:06</sys_updated_on><sys_user_role display_value="admin" name="admin">2831a114c611228501d4ea6c309d626d</sys_user_role><transaction_id/></sys_security_acl_role></record_update>]]></payload>
+        <payload_hash>737045080</payload_hash>
+        <record_name>x_590625_employeem_department.admin</record_name>
+        <reverted_from/>
+        <source>c94c09ae2fcba0109de8532a2799b6f4</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-03-25 07:24:06</sys_created_on>
+        <sys_id>5749d16a2f0fa0109de8532a2799b613</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1786844da810000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-03-25 07:24:06</sys_updated_on>
+        <type>Access Roles</type>
+        <update_guid>df49d16a630fa010b35f87698538b512</update_guid>
+        <update_guid_history>df49d16a630fa010b35f87698538b512:737045080,f6b8d92a8c0fa010b469cf743232e840:-1674230069</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="x_590625_employeem_department.admin">36e9996a2f0fa0109de8532a2799b6b3</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-03-25 07:26:48</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl_role">sys_security_acl_role</sys_db_object>
+        <sys_id>1a76263e18ca459b886abe6ec255d569</sys_id>
+        <sys_metadata>76b8d92a2f0fa0109de8532a2799b63e</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_590625_employeem_department.admin</sys_name>
+        <sys_package display_value="EmployeeManagement" source="x_590625_employeem">494c09ae2fcba0109de8532a2799b6f2</sys_package>
+        <sys_parent display_value="">f6b8d92a2f0fa0109de8532a2799b63b</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="EmployeeManagement">494c09ae2fcba0109de8532a2799b6f2</sys_scope>
+        <sys_scope_delete display_value="">64c08b577a6b49a1bc214abd280f7291</sys_scope_delete>
+        <sys_update_name>sys_security_acl_role_76b8d92a2f0fa0109de8532a2799b63e</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_role_76b8d92a2f0fa0109de8532a2799b63e">5749d16a2f0fa0109de8532a2799b613</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-03-25 07:26:48</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

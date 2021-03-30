@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module">
+    <sys_ui_module action="DELETE">
+        <active>true</active>
+        <application display_value="Department">feb8d92a2f0fa0109de8532a2799b628</application>
+        <filter/>
+        <name>Departments</name>
+        <order/>
+        <path/>
+        <path_relative_to_root>false</path_relative_to_root>
+        <roles>admin</roles>
+        <sys_class_name>sys_ui_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-03-25 07:29:40</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>749a91aa2f0fa0109de8532a2799b6f9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Departments</sys_name>
+        <sys_package display_value="EmployeeManagement" source="x_590625_employeem">494c09ae2fcba0109de8532a2799b6f2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="EmployeeManagement">494c09ae2fcba0109de8532a2799b6f2</sys_scope>
+        <sys_update_name>sys_ui_module_749a91aa2f0fa0109de8532a2799b6f9</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-03-25 07:29:40</sys_updated_on>
+        <table>x_590625_employeem_department</table>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+    </sys_ui_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="EmployeeManagement">494c09ae2fcba0109de8532a2799b6f2</application>
+        <file_path/>
+        <instance_id>3ee8995fdb2a4c903050ac44d496193d</instance_id>
+        <instance_name>dev98333</instance_name>
+        <name>sys_ui_module_749a91aa2f0fa0109de8532a2799b6f9</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module"><sys_ui_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="Department">feb8d92a2f0fa0109de8532a2799b628</application><filter/><name>Departments</name><order/><path/><path_relative_to_root>false</path_relative_to_root><roles>admin</roles><sys_class_name>sys_ui_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-03-25 07:29:40</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>749a91aa2f0fa0109de8532a2799b6f9</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Departments</sys_name><sys_package display_value="EmployeeManagement" source="x_590625_employeem">494c09ae2fcba0109de8532a2799b6f2</sys_package><sys_policy/><sys_scope display_value="EmployeeManagement">494c09ae2fcba0109de8532a2799b6f2</sys_scope><sys_update_name>sys_ui_module_749a91aa2f0fa0109de8532a2799b6f9</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-03-25 07:29:40</sys_updated_on><table>x_590625_employeem_department</table><uncancelable>false</uncancelable><view_name/></sys_ui_module></record_update>]]></payload>
+        <payload_hash>-1170201917</payload_hash>
+        <record_name>Departments</record_name>
+        <reverted_from/>
+        <source>c94c09ae2fcba0109de8532a2799b6f4</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-03-25 07:29:40</sys_created_on>
+        <sys_id>7c9a91aa2f0fa0109de8532a2799b6fa</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1786849f4c90000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-03-25 07:29:40</sys_updated_on>
+        <type>Module</type>
+        <update_guid>b49a91aa3f0fa0100ca4f95eee836efa</update_guid>
+        <update_guid_history>b49a91aa3f0fa0100ca4f95eee836efa:-1170201917</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-03-25 07:36:29</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_module">sys_ui_module</sys_db_object>
+        <sys_id>02f2e16ba9a740ae81d5359df51aff64</sys_id>
+        <sys_metadata>749a91aa2f0fa0109de8532a2799b6f9</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Departments</sys_name>
+        <sys_package display_value="EmployeeManagement" source="x_590625_employeem">494c09ae2fcba0109de8532a2799b6f2</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="EmployeeManagement">494c09ae2fcba0109de8532a2799b6f2</sys_scope>
+        <sys_scope_delete display_value="">64c08b577a6b49a1bc214abd280f7291</sys_scope_delete>
+        <sys_update_name>sys_ui_module_749a91aa2f0fa0109de8532a2799b6f9</sys_update_name>
+        <sys_update_version display_value="sys_ui_module_749a91aa2f0fa0109de8532a2799b6f9">7c9a91aa2f0fa0109de8532a2799b6fa</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-03-25 07:36:29</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

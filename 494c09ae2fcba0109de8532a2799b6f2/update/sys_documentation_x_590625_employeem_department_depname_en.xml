@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="depname" label="DepName" language="en" table="x_590625_employeem_department">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>depname</element>
+            <help/>
+            <hint/>
+            <label>DepName</label>
+            <language>en</language>
+            <name>x_590625_employeem_department</name>
+            <plural>DepNames</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-03-25 07:37:59</sys_created_on>
+            <sys_id>a27c99ea2f0fa0109de8532a2799b697</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>DepName</sys_name>
+            <sys_package display_value="EmployeeManagement" source="x_590625_employeem">494c09ae2fcba0109de8532a2799b6f2</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="EmployeeManagement">494c09ae2fcba0109de8532a2799b6f2</sys_scope>
+            <sys_update_name>sys_documentation_x_590625_employeem_department_depname_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-03-25 07:37:59</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_list action="DELETE" parent="" relationship="" sys_domain="global" table="x_590625_employeem_department" version="2" view="">
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sys_created_on</element>
+            <list_id display_value="x_590625_employeem_department" element="NULL" name="x_590625_employeem_department" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">f8e8952a2f0fa0109de8532a2799b6a0</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>0</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-03-25 07:22:17</sys_created_on>
+            <sys_id>34e89d2a2f0fa0109de8532a2799b680</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-03-25 07:22:17</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element/>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <name>x_590625_employeem_department</name>
+            <parent/>
+            <position/>
+            <relationship/>
+            <sum>false</sum>
+            <sys_class_name>sys_ui_list</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-03-25 07:22:17</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f8e8952a2f0fa0109de8532a2799b6a0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_590625_employeem_department</sys_name>
+            <sys_package display_value="EmployeeManagement" source="x_590625_employeem">494c09ae2fcba0109de8532a2799b6f2</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="EmployeeManagement">494c09ae2fcba0109de8532a2799b6f2</sys_scope>
+            <sys_update_name>sys_ui_list_x_590625_employeem_department_null</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-03-25 07:22:17</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_list>
+    </sys_ui_list>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="EmployeeManagement">494c09ae2fcba0109de8532a2799b6f2</application>
+        <file_path/>
+        <instance_id>3ee8995fdb2a4c903050ac44d496193d</instance_id>
+        <instance_name>dev98333</instance_name>
+        <name>sys_ui_list_x_590625_employeem_department_null</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_list parent="" relationship="" sys_domain="global" table="x_590625_employeem_department" version="2" view=""><sys_ui_list_element action="INSERT_OR_UPDATE"><average_value>false</average_value><element>sys_created_on</element><list_id display_value="x_590625_employeem_department" element="NULL" name="x_590625_employeem_department" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">f8e8952a2f0fa0109de8532a2799b6a0</list_id><max_value>false</max_value><min_value>false</min_value><position>0</position><sum>false</sum><sys_created_by>admin</sys_created_by><sys_created_on>2021-03-25 07:22:17</sys_created_on><sys_id>34e89d2a2f0fa0109de8532a2799b680</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-03-25 07:22:17</sys_updated_on></sys_ui_list_element><sys_ui_list action="INSERT_OR_UPDATE"><average_value>false</average_value><element/><max_value>false</max_value><min_value>false</min_value><name>x_590625_employeem_department</name><parent/><position/><relationship/><sum>false</sum><sys_class_name>sys_ui_list</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-03-25 07:22:17</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>f8e8952a2f0fa0109de8532a2799b6a0</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_590625_employeem_department</sys_name><sys_package display_value="EmployeeManagement" source="x_590625_employeem">494c09ae2fcba0109de8532a2799b6f2</sys_package><sys_policy/><sys_scope display_value="EmployeeManagement">494c09ae2fcba0109de8532a2799b6f2</sys_scope><sys_update_name>sys_ui_list_x_590625_employeem_department_null</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-03-25 07:22:17</sys_updated_on><sys_user/><view display_value="Default view" name="NULL">Default view</view><view_name/></sys_ui_list></sys_ui_list></record_update>]]></payload>
+        <payload_hash>-42016811</payload_hash>
+        <record_name>Department</record_name>
+        <reverted_from/>
+        <source>c94c09ae2fcba0109de8532a2799b6f4</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-03-25 07:22:18</sys_created_on>
+        <sys_id>7ce89d2a2f0fa0109de8532a2799b681</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1786843342d0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-03-25 07:22:18</sys_updated_on>
+        <type>List Layout</type>
+        <update_guid>3ce89d2a6b0fa0106f1a7ace3bb91781</update_guid>
+        <update_guid_history>3ce89d2a6b0fa0106f1a7ace3bb91781:-42016811</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-03-25 07:26:49</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_list">sys_ui_list</sys_db_object>
+        <sys_id>0b50980a2ab543228144174592f67e24</sys_id>
+        <sys_metadata>f8e8952a2f0fa0109de8532a2799b6a0</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_590625_employeem_department</sys_name>
+        <sys_package display_value="EmployeeManagement" source="x_590625_employeem">494c09ae2fcba0109de8532a2799b6f2</sys_package>
+        <sys_parent display_value="">2388d52a2f0fa0109de8532a2799b61f</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="EmployeeManagement">494c09ae2fcba0109de8532a2799b6f2</sys_scope>
+        <sys_scope_delete display_value="">64c08b577a6b49a1bc214abd280f7291</sys_scope_delete>
+        <sys_update_name>sys_ui_list_x_590625_employeem_department_null</sys_update_name>
+        <sys_update_version display_value="sys_ui_list_x_590625_employeem_department_null">7ce89d2a2f0fa0109de8532a2799b681</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-03-25 07:26:49</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
